@@ -1,2 +1,23 @@
-# Customer-Churn-Prediction-using-Logistic-Regression
-Baseline classification project to predict customer churn using Logistic Regression. Includes data preprocessing, feature interpretation (log-odds), and evaluation using confusion matrix, precision, recall, and F1-score.
+# Customer Churn Prediction using Logistic Regression
+
+##  Objective
+Build a baseline classification model to predict customer churn.
+
+##  Dataset
+Bank Customer Churn Dataset (Churn_Modelling.csv)
+
+##  Steps Performed
+- Data Cleaning and Preprocessing
+- Encoding Categorical Variables
+- Feature Scaling
+- Logistic Regression Model
+- Model Evaluation (Confusion Matrix, Precision, Recall, F1-score)
+
+##  Results
+The model provides a baseline understanding of churn prediction and feature importance.
+
+##  Tools Used
+- Python
+- Pandas
+- Scikit-learn
+- Matplotlib / Seaborn
